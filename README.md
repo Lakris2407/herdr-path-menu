@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This mod moved to [Lakris2407/herdr-mods](https://github.com/Lakris2407/herdr-mods/tree/main/path-menu).** This repo is archived; new versions only ship there.
+
 # Path menu for Herdr
 
 Right-click a terminal in [Herdr](https://herdr.dev) and open the files and folders on screen.
